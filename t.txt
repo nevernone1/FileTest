@@ -1,0 +1,10 @@
+#这是ip
+ip:127.0.0.1
+#这是用户名
+name:admin
+#这是密码
+password:123456
+
+
+Wwwwwwwwwwwwwww
+Ee:aa
